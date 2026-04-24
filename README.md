@@ -1,2 +1,8 @@
 - Install APK file from https://app.box.com/s/0cjizeew7sjrlsv5u539q4ovcl65rsp0
+- Click on Scan Discharge to Scan Discharge Instructions
+- AI will process it and give you a breakdown of your diagnosis and treatment
+- On the menu, there is a Dashboard Tab, AI Assistant Tab, Schedule Tab and Medications Tab
+- After Scannind Discharge Instructions, Click on Sync All to Sync to Phone Calendar and Google Calendar if enabled.
+- Calendar and App will remind you when time to take medication
+- You may also ask the AI assistant to give you insight on discharge instructions
 - Only works on android devices

@@ -1,0 +1,2 @@
+- Install APK file from https://app.box.com/s/0cjizeew7sjrlsv5u539q4ovcl65rsp0
+- Only works on android devices

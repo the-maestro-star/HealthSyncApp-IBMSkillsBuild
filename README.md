@@ -2,7 +2,7 @@
 - Click on Scan Discharge to Scan Discharge Instructions
 - AI will process it and give you a breakdown of your diagnosis and treatment
 - On the menu, there is a Dashboard Tab, AI Assistant Tab, Schedule Tab and Medications Tab
-- After Scannind Discharge Instructions, Click on Sync All to Sync to Phone Calendar and Google Calendar if enabled.
+- After Scanning Discharge Instructions, Click on Sync All to sync to Phone Calendar and Google Calendar if enabled.
 - Calendar and App will remind you when time to take medication
 - You may also ask the AI assistant to give you insight on discharge instructions
 - Only works on android devices
